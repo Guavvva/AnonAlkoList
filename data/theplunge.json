@@ -1,0 +1,18 @@
+{
+    "id": 113220284,
+    "name": "The Plunge",
+    "author": "Dolabill",
+    "creators": ["lazy lol"],
+    "verifier": "GOKILL",
+    "verification": "https://www.youtube.com/watch?v=8gW1-_u1K0Y",
+    "percentToQualify": "100",
+    "password": "None",
+    "records": [
+        {
+            "user": "SashaKray",
+            "link": "https://www.youtube.com/watch?v=7sLRZxIEDmk",
+            "percent": 88,
+            "hz": 360
+        }
+    ]
+}
